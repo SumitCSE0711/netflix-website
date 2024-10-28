@@ -9,8 +9,7 @@ body{
   background-color: black;
 }
 .main{
-  background-image: url(/new-project-1/bg.jpg);
-  height: 110vh;
+  height: 154vh;
   position: relative;
   background-position: center center;
   background-repeat: no-repeat;
